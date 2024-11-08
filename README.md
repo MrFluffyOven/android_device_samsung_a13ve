@@ -31,3 +31,6 @@ $ Work in progress, to follow
 Blobs version:
 > Kernel base: Compiled from source, big thanks to @physwizz: https://github.com/physwizz/a137-T
 > Ramdisk, DTB, DTBO base: A137FXXU1BVL1
+
+
+TEST
